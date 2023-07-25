@@ -1,12 +1,11 @@
 #include "sort.h"
-
 /**
  * bubble_sort - sorts  bubbly
  * @array: array to sort
  * @size: size
  */
 
-void bubble_sort(int *array, size_t size)
+ void bubble_sort(int *array, size_t size)
 {
 	size_t i, newsize = size;
 	int tmp, swap;
