@@ -1,6 +1,5 @@
 #include "sort.h"
 #include "0-bubble_sort.c"
-
 /**
  * bubble_sort - sorts  bubbly
  * @array: array to sort
